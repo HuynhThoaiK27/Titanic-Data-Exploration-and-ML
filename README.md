@@ -1,7 +1,7 @@
 # Titanic-Data-Exploration-and-ML
 
 ## Mô Tả
-Repository này chứa bài phân tích và xử lý dữ liệu Titanic, bao gồm việc xử lý dữ liệu thiếu và áp dụng các mô hình học máy như Random Forest và Logistic Regression. Mục tiêu của bài tập là so sánh các phương pháp xử lý dữ liệu thiếu khác nhau và đánh giá hiệu quả của chúng thông qua các chỉ số như Accuracy, F1-Score và RMSE.
+Repository này chứa bài phân tích và xử lý dữ liệu Titanic, bao gồm việc xử lý dữ liệu thiếu và áp dụng các mô hình học máy như KNN và Logistic Regression, Linear Regression. Mục tiêu của bài tập là so sánh các phương pháp xử lý dữ liệu thiếu khác nhau và đánh giá hiệu quả của chúng thông qua các chỉ số như Accuracy, F1-Score và RMSE.
 
 ## Các Bước Thực Hiện
 1. **Phân Tích Dữ Liệu Thiếu**
